@@ -1,6 +1,6 @@
 ### Hi there! I'm Farhan 👋
 
-I'm currently 2020 iGEM Ambassador to Asia and working in Nano Venture, a startup accelerator in Serpong, Indonesia.
+I'm currently working as Corporate Strategy Lead in Schoters, an edtech from Indonesia.
 
 - 🔭 I’m currently working on investment analysis, pitch decks, financial modelling, and business dashboard.
 - 🌱 I’m currently learning German, digital marketing, and data visualization
